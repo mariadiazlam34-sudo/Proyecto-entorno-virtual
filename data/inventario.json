@@ -1,0 +1,18 @@
+[
+    {
+        "codigo": "PROD01",
+        "nombre": "Pantalon",
+        "categoria": "Ropa",
+        "precio_unitario": 120000.0,
+        "cantidad": 7,
+        "valor_total_stock": 840000.0
+    },
+    {
+        "codigo": "PROD02",
+        "nombre": "Falda",
+        "categoria": "Ropa",
+        "precio_unitario": 80000.0,
+        "cantidad": 12,
+        "valor_total_stock": 960000.0
+    }
+]
